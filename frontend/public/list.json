@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"this is important",
+        "price":0,
+        "category":"Free",
+        "image":"https://images.pexels.com/photos/159866/books-book-pages-read-literature-159866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
+    },
+    {
+        "id":2,
+        "name":"Play Book",
+        "title":"this is important",
+        "price":0,
+        "category":"Free",
+        "image":"https://images.pexels.com/photos/159866/books-book-pages-read-literature-159866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
+    },
+    {
+        "id":3,
+        "name":"Horrer Book",
+        "title":"this is important",
+        "price":0,
+        "category":"Free",
+        "image":"https://images.pexels.com/photos/159866/books-book-pages-read-literature-159866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
+    },
+    {
+        "id":4,
+        "name":"Food Book",
+        "title":"this is important",
+        "price":5000,
+        "category":"food",
+        "image":"https://images.pexels.com/photos/159866/books-book-pages-read-literature-159866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
+    },
+    {
+        "id":5,
+        "name":"Maths Book",
+        "title":"this is important",
+        "price":100,
+        "category":"maths",
+        "image":"https://images.pexels.com/photos/159866/books-book-pages-read-literature-159866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
+    },
+    {
+        "id":6,
+        "name":"Song Book",
+        "title":"this is important",
+        "price":0,
+        "category":"Free",
+        "image":"https://images.pexels.com/photos/159866/books-book-pages-read-literature-159866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
+    },
+      {
+        "id":7,
+        "name":"G.K Book",
+        "title":"this is important",
+        "price":0,
+        "category":"Free",
+        "image":"https://images.pexels.com/photos/159866/books-book-pages-read-literature-159866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
+    },
+    {
+        "id":8,
+        "name":"science Book",
+        "title":"this is important",
+        "price":0,
+        "category":"Free",
+        "image":"https://images.pexels.com/photos/159866/books-book-pages-read-literature-159866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
+    }
+]

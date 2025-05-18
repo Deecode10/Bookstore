@@ -13,16 +13,15 @@ const URI=process.env.mongoDB;
 app.use(cors());
 app.use(express.json());
 
-
-try{
-mongoose.connect(URI,{
-   // useNewUrlParser:true,
-   //npm useUnifiedTopology:true,
-}) ;
+( async ()=>{
+    try{
+ await mongoose.connect(`${URI}`) ;
 console.log("connect to the database")
 }catch(error){
 console.log("error",error);
 }
+})()
+
 
 //defining routes
 app.use("/book",bookRoute);

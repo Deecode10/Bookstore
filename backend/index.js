@@ -24,9 +24,10 @@ console.log("error",error);
 
 
 //defining routes
-app.use("/book",bookRoute);
-app.use("/user",userRoute);
+
 
 app.listen(PORT, () => {
   console.log(`server is listening on port ${PORT}`)
 })
+app.use("/book",bookRoute);
+app.use("/user",userRoute);
